@@ -1,2 +1,1 @@
-i am learning jenkins
-hello genkins
+i am syamala
